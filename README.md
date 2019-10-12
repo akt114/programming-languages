@@ -4,7 +4,7 @@
 1. C
 2. C++
 3. Python
-3. JavScript
+3. JavaScript
 4. Java
 5. Go
 6. R
